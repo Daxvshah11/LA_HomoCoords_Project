@@ -2,7 +2,12 @@
 
 Linear Algebra course project
 
-Topic : Homogenous coordinates & their applications (Computer Graphics & Medical Imaging)
+Topic : Homogenous Coordinates & their Applications
+
+Applications:
+
+      -> Computer Graphics (CG)
+      -> Medical Imaging
 
 Team 80:
 
