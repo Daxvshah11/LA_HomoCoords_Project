@@ -4,7 +4,7 @@ Linear Algebra course project
 
 Topic : Homogenous Coordinates & their Applications
 
-Applications:
+Applications covered:
 
       -> Computer Graphics (CG)
       -> Medical Imaging
