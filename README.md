@@ -2,7 +2,7 @@
 
 Linear Algebra course project
 
-Topic : Homogenous coordinates & applications in Computer Graphics (CG)
+Topic : Homogenous coordinates & their applications (Computer Graphics & Medical Imaging)
 
 Team 80:
 
