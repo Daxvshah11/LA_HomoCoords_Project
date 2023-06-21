@@ -12,5 +12,5 @@ Applications covered:
 Team 80:
 
       - Daksh Shah
+      - Karan Nijhawan
       - Sairam Babu
-      - Karan Nijhavan
